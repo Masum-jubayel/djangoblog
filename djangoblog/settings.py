@@ -15,7 +15,7 @@ SECRET_KEY = 'ohq%+qf1p81(1+=x$@k4_^ax&x#__ws)nsvx#ed(pz$f$b^+zh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['mj-blog-web.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
